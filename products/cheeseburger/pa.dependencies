@@ -1,0 +1,38 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "Myst3rion09/android_device_oneplus_cheeseburger",
+        "target_path":  "device/oneplus/cheeseburger",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Myst3rion09/android_kernel_oneplus_msm8998",
+        "target_path":  "kernel/oneplus/msm8998",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Myst3rion09/proprietary_vendor_oneplus",
+        "target_path":  "vendor/oneplus",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Myst3rion09/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "nougat-mr2-8998"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Myst3rion09/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "nougat-mr2-8998"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Myst3rion09/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "nougat-mr2-8998"
+    }
+]
